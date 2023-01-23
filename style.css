@@ -1,0 +1,26 @@
+/* header */
+@import url("assets/css/header.css");
+/* session1 */
+@import url("assets/css/session1.css");
+/* session2 */
+@import url("assets/css/session2.css");
+/* session3 */
+@import url("assets/css/session3.css");
+/* session4 */
+@import url("assets/css/session4.css");
+/* footer */
+@import url("assets/css/footer.css");
+/* Media1024 */
+@import url("assets/css/media-1024.css");
+
+
+
+body {
+
+    z-index: 2;
+    background-image:url('assets/images/Ellipse_Haut.svg'),url('assets/images/Ellipse2.svg');
+    background-position: left top, right 1800px;
+    background-size: 100%,40%;
+    background-repeat: no-repeat;
+    font-family: "Roboto";
+}
